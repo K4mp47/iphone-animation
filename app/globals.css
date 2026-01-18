@@ -1,5 +1,21 @@
 @import "tailwindcss";
 
+
+.spline-sans-mono-medium {
+  font-family: "Spline Sans Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+.spline-sans-mono-bold {
+  font-family: "Spline Sans Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
